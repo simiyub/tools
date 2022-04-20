@@ -2,6 +2,7 @@ file with git commands
 git init
 git add 
 git diff
+git diff --staged
 git commit
 git status
 git log
