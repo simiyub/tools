@@ -1,1 +1,9 @@
 file with git commands
+git init
+git add 
+git commit
+git status
+git log
+git remote add origin https://github.com/simiyub/tools.git
+git push -u origin master
+
