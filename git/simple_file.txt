@@ -1,4 +1,5 @@
 file with git commands
+<<<<<<< HEAD
 git init
 git add 
 git diff
@@ -10,3 +11,5 @@ git log
 git remote add origin https://github.com/simiyub/tools.git
 git push -u origin master
 
+=======
+>>>>>>> parent of 0f28e3c (ready to push)
