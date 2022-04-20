@@ -1,5 +1,4 @@
 file with git commands
-<<<<<<< HEAD
 git init
 git add 
 git diff
@@ -11,5 +10,4 @@ git log
 git remote add origin https://github.com/simiyub/tools.git
 git push -u origin master
 showing merge with a bug fix
-=======
->>>>>>> parent of 0f28e3c (ready to push)
+branching
