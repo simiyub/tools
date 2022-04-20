@@ -4,6 +4,7 @@ git add
 git diff
 git diff --staged
 git commit
+git commit -a
 git status
 git log
 git remote add origin https://github.com/simiyub/tools.git
